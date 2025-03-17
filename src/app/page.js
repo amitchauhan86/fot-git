@@ -25,8 +25,8 @@ export default function Home() {
               priority
             />
             chhh!!!!!!!!!!!!!!
-            00000000
-          </a>
+            00000000 hehhhhhhhhhhhhhhhhh
+          </a> 
         </div>
       </div>
 
