@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Byddddddddddd{" "}
+            Byddddddddddd{" "} new off mein change
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
